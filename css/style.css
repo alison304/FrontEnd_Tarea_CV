@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    background-color: #C4C4C4;
+    color: #005677;
+    margin-bottom: 100px;
+    letter-spacing: 10px;
+    padding: 6px 6px;
+}
+
+.subtitulos {
+    letter-spacing: 10px;
+    padding-left: 25px;
+}
+
+span.bold-i {
+    font-weight: bold;
+    font-style: italic;
+}
+
+span.bold {
+    font-weight: bold;
+}
+
+li.tabs {
+    padding-left: 75px;
+}
+
+h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px;
+}
+
+.foot-bat {
+    color: white;
+    background-color: #005677;
+    text-align: center;
+    padding: 6px 6px;
+}
+
+ul.sp {
+    padding-bottom: 10px;
+}
+
+.space {
+    margin-bottom: 130px;
+    margin-right: 50px;
+}
+
+.ico-foot {
+    margin-left: 25px;
+    margin-bottom: -2px;
+}
